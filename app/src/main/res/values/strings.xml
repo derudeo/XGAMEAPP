@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">XGAME</string>
+    <string name="toMain">メイン画面へ</string>
+    <string name="subScreen">サブ画面</string>
+    <string name="subScreen2">サブ画面2</string>
+    <string name="toSub">サブ画面へ</string>
+    <string name="toSub2">サブ画面2へ</string>
+    <string name="canInput">入力可能</string>
 </resources>
